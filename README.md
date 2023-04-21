@@ -1,0 +1,2 @@
+# Vaatu
+This is a bot for managing my pm2 processes. With it, I'm able to restart/stop a process, look at its .out or .err logs, and view all processes being managed by pm2. This bot is still a WIP, and as such, features may be altered, removed, or added as I see fit.
